@@ -1,0 +1,64 @@
+ 
+header {
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    width: 100%;
+    background-color: black;
+    height: 830px;
+    display: flex;
+}
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+aside {
+    background-color: black;
+    margin: 10px 10px 10px 10px;
+}
+article {
+     color: white;
+
+}
+.pop-up {
+    margin: 50px 1000px 50px 400px;
+} 
+.rodape {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+.flex-item {
+    width: 200px;
+
+}
+
+.caixa1 {
+    flex-grow: 1;
+}
+
+.caixa2 {
+    flex-grow: 2;
+}
+.poster {
+    width: 80%;
+    margin-left: 100px;
+}
+
+ h1 {
+    margin-top: 200px;
+ }
+
+
+
